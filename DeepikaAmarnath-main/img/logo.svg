@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="16px" viewBox="0 0 45 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-150.000000, -32.000000)">
+            <g id="Group-8" transform="translate(150.000000, 29.000000)">
+                <g id="Group-26">
+                    <g id="logo">
+                        <text id="da" font-family="Muli-SemiBold, Muli" font-size="20" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="0" y="20">da</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#D0A3B0" x="30" y="10" width="15" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
